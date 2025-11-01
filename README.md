@@ -3,7 +3,7 @@
 <h2>TheWildWestTreasure</h2>
 
 <p>
-  <a href="https:" target="_blank">
+  <a href="https://wisluniversal.github.io/TheWildWestTreasure/home" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Site-Click%20Here-1e90ff?style=for-the-badge&logo=google-chrome" alt="Visit Site">
   </a>
 </p>
